@@ -12,5 +12,11 @@ package com.mycompany.labgithubforkbranchmerge;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Lab - Fork Branch Merge");
+        showArthurHoskey();
+    }
+    
+    public static void showArthurHoskey()
+    {
+        System.out.println("Arthur Hoskey");
     }
 }
